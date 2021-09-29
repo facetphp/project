@@ -1,0 +1,7 @@
+{
+    "name": "facet/project",
+    "description": "The Facet project.",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
